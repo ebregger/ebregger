@@ -52,7 +52,7 @@ I machined a small adapter for my 3D printer's toolhead. It was used for a perio
 
 ## SkillsUSA Technical Drafting — 2023
 
-I earned the bronze medal at the Michigan SkillsUSA State Championships. The site reports there were 17 high-school competitors in Technical Drafting; the challenge was to model a Rabbit corkscrew and create drawings so it could be manufactured. The event was timed, and competitors were not expected to finish the entire drawing set. The included 2023 PDF is my unfinished competition submission. [Competition results and project context](https://sites.google.com/salineschools.org/mrvasiloff/home#h.9kktn9fiwssq).
+I earned the bronze medal at the Michigan SkillsUSA State Championships. The challenge was to model a Rabbit corkscrew and create drawings so it could be manufactured. The event was timed, and competitors were not expected to finish the entire drawing set. The included 2023 PDF is my unfinished competition submission. [Competition results and project context](https://sites.google.com/salineschools.org/mrvasiloff/home#h.9kktn9fiwssq).
 
 ## Mechanical drafting
 
