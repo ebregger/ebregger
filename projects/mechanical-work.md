@@ -22,6 +22,16 @@ I designed and 3D printed a mount to solve a problem with my bike's tail light.
 
 ![CAD model of the bike tail light mount](../assets/bike-tail-light-mount.png)
 
+### Affordable prosthetic hand
+
+*ENG 1102 team project, Spring 2025. Team: Andrew Palmer, Edison Bregger, and Hunter Tuoriniemi.*
+
+I designed the tendon-driven hand and finger geometry in Onshape. We used wire-driven fingers and carbon-fiber nylon parts. I printed prototype components and collaborated with teammates on MATLAB actuation programming. The project explored an affordable prosthesis concept for amputees.
+
+![Prototype of the tendon-driven prosthetic arm](../assets/prosthetic-arm-prototype.jpg)
+
+![Team poster for the affordable prosthetic hand project](../assets/prosthetic-hand-poster.jpg)
+
 
 ## 3D printer modifications and fabrication
 
